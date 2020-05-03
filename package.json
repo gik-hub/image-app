@@ -1,0 +1,19 @@
+{
+  "name": "image-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Titus Thumbi <titus.thumbi@andela.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cloudinary": "^1.15.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.1",
+    "multer": "^1.4.2"
+  }
+}
